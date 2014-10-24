@@ -1,4 +1,4 @@
 example
 =======
 
-desc
+This is a change on new branch.
